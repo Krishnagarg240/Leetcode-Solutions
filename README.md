@@ -8,6 +8,7 @@ Leetcode Problem Solutions
 | ------- |
 | [0169-majority-element](https://github.com/Krishnagarg240/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishnagarg240/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0645-set-mismatch](https://github.com/Krishnagarg240/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,10 +26,12 @@ Leetcode Problem Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krishnagarg240/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/Krishnagarg240/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krishnagarg240/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/Krishnagarg240/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
@@ -37,4 +40,8 @@ Leetcode Problem Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krishnagarg240/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Krishnagarg240/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
